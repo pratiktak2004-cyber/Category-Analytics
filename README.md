@@ -53,6 +53,3 @@ Built following modern category analytics executive reporting design principles:
 * **Typography & Palette:** Clean layout with standardized chart titles and distinct visual color groupings.
 
 ---
-
-│   └── dashboard_preview.png       # High-resolution category dashboard screenshot
-└── README.md                       # Project documentation
