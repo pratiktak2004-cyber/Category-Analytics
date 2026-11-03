@@ -1,8 +1,8 @@
-# 📊 E-Commerce Executive Sales & Product Analytics Dashboard
+#  E-Commerce Executive Sales & Product Analytics Dashboard
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-Executive_Reporting-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)
+
 
 An interactive, executive-ready sales and product performance dashboard built in **Microsoft Excel**. This project transforms raw e-commerce transaction data into dynamic corporate intelligence, enabling stakeholders to evaluate revenue trajectories, top-performing inventory, and global market distributions in real time.
 
