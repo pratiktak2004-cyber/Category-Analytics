@@ -54,10 +54,3 @@ Built following modern executive reporting design principles:
 * **Typography & Palette:** Clean layout with standardized chart titles and distinct visual color groupings.
 
 ---
-
-## 📂 Repository Structure
-
-```text
-├── data/
-│   └── E_Commerce_data.csv        # Cleaned dataset used for analysis
-├── dashboard# Category-Analytics
