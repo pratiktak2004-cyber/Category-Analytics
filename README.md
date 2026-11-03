@@ -5,7 +5,7 @@
 
 An interactive, executive-ready category, sales, and product performance dashboard built in **Microsoft Excel**. This project transforms raw e-commerce transaction data into dynamic corporate intelligence, enabling stakeholders to evaluate category performance, revenue trajectories, top-performing inventory, and global market distributions in real time.
 
-![Category Analytics Dashboard Preview](screenshots(569).png)
+![Category Analytics Dashboard Preview](Screenshot%20(569).png)
 ---
 
 ## Project Overview
