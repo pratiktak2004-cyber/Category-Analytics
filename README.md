@@ -57,5 +57,10 @@ Built following modern category analytics executive reporting design principles:
 * git add your_large_file.xlsx
 git commit -m "Add large file via Git LFS"
 git push origin main
-
+git lfs install
+git lfs track "*.xlsx"
+git add .gitattributes
+git add your_large_file.xlsx
+git commit -m "Track file with Git LFS"
+git push origin main
 ---
