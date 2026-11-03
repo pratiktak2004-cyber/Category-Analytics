@@ -51,16 +51,5 @@ Built following modern category analytics executive reporting design principles:
 * **Clean Canvas:** Spreadsheet gridlines removed for a modern application feel.
 * **Category Visual Hierarchy:** Arranged KPI summaries, category charts, and metrics logically to facilitate fast visual scanning.
 * **Typography & Palette:** Clean layout with standardized chart titles and distinct visual color groupings.
-* git lfs install
-* git lfs track "*.xlsx"
-* git add .gitattributes
-* git add your_large_file.xlsx
-git commit -m "Add large file via Git LFS"
-git push origin main
-git lfs install
-git lfs track "*.xlsx"
-git add .gitattributes
-git add your_large_file.xlsx
-git commit -m "Track file with Git LFS"
-git push origin main
+  git --version
 ---
